@@ -4,7 +4,7 @@ These files all written and tested using Dev-Cpp,Visual Studio code and code blo
 If you are interested in using Eclipse IDE (like me) then i will advice you to use a extra line in your main function
 
 ex.
-int main(void)               //<---------------In Eclipse you canot use main function with void return it should return int
+int main(void)    
 {
   setbuf(stdout,NULL);      //<----------this line need to be added
   //your definations and declarations
