@@ -62,7 +62,6 @@ ex.
 int main(void)    
 {
   setbuf(stdout,NULL);      //<----------this line need to be added
-  //your definations and declarations
   printf("!!!Hello World!!!");
   return EXIT_success;
 }
