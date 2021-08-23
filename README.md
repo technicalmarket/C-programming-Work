@@ -1,5 +1,8 @@
 # C-Work
 C tutorial Files
+I am writing a blog on blogger regarding C programming so if you have any doubts please go through the bolg to get details.
+Link for blogger is as follows:
+https://technicalmarketglobalofficial.blogspot.com/
 These files all written and tested using Dev-Cpp,Visual Studio code and code blocks IDE 
 Some of the parts in this code are kept commented which were code lines which I used for debugging purpose 
 Which can also be used by you.
